@@ -1,4 +1,4 @@
-# Kakariko_SteamVR_Home
+# Hyrule_SteamVR_Home
 
 Steam VR home of the Hyrule Field.
 
