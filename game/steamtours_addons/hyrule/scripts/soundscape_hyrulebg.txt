@@ -1,0 +1,18 @@
+"soundscape_hyrulebg"
+{
+                "playlooping"
+                {
+                                "volume"        "0.15"
+                                "pitch"         "100"
+                                "wave"          "sounds/hyrulebg.vsnd"
+                }
+}
+"soundscape_lonlonbg"
+{
+                "playlooping"
+                {
+                                "volume"        "0.15"
+                                "pitch"         "100"
+                                "wave"          "sounds/lonlonbg.vsnd"
+                }
+}

@@ -1,0 +1,19 @@
+// THIS FILE IS AUTO-GENERATED
+
+Layer0
+{
+	shader "vr_standard.vfx"
+
+	//---- Color ----
+	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
+	g_vTexCoordOffset "[-0.100 -0.351]"
+	g_vTexCoordScale "[0.030 0.030]"
+	g_vTexCoordScrollSpeed "[0.000 0.000]"
+	TextureColor "materials/skyimg.png"
+
+	//---- Lighting ----
+	TextureGlossiness "materials/default/default_gloss.tga"
+
+	//---- Normal Map ----
+	TextureNormal "materials/default/default_normal.tga"
+}

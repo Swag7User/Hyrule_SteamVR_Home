@@ -1,0 +1,5 @@
+soundscapes_manifest
+{
+	"file"		"scripts/soundscape_hyrulebg.txt"
+	"file"		"scripts/valve.txt"
+}

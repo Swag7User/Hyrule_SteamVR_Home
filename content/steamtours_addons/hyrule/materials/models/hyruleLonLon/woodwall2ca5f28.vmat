@@ -1,0 +1,5 @@
+"Layer0"
+{
+	"Shader"		"vr_standard.vfx"
+	"TextureColor"		"materials/models\hyruleLonLon/woodwall2ca5f28_color.png"
+}
